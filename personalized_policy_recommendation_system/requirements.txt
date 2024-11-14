@@ -1,0 +1,6 @@
+streamlit
+groq
+openai
+pydantic
+python-dotenv
+fpdf
